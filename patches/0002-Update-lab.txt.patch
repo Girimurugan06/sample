@@ -1,0 +1,22 @@
+From 7abb09f05ab4ef43296b024e608756ebecfe54c7 Mon Sep 17 00:00:00 2001
+From: Girimurugan06 <90827510+Girimurugan06@users.noreply.github.com>
+Date: Fri, 26 Nov 2021 08:39:40 +0530
+Subject: [PATCH 2/4] Update lab.txt
+
+---
+ lab.txt | 5 +++++
+ 1 file changed, 5 insertions(+)
+
+diff --git a/lab.txt b/lab.txt
+index e69de29..b9d1835 100644
+--- a/lab.txt
++++ b/lab.txt
+@@ -0,0 +1,5 @@
++<html>
++  <body>
++     <h1>hi</h1>
++  </body>
++</html>
+-- 
+2.25.1
+

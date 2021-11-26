@@ -1,0 +1,22 @@
+From af36b578bc9ca4baa7ffda7e4b067311695f0caf Mon Sep 17 00:00:00 2001
+From: Girimurugan06 <girimurugan613@gmail.com>
+Date: Fri, 26 Nov 2021 03:29:37 +0000
+Subject: [PATCH 4/4] change occ
+
+---
+ lab.txt | 1 -
+ 1 file changed, 1 deletion(-)
+
+diff --git a/lab.txt b/lab.txt
+index b9d1835..83bb920 100644
+--- a/lab.txt
++++ b/lab.txt
+@@ -1,5 +1,4 @@
+ <html>
+   <body>
+-     <h1>hi</h1>
+   </body>
+ </html>
+-- 
+2.25.1
+
